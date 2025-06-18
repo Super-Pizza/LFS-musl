@@ -1,0 +1,12 @@
+diff -ru a/getopt.h b/getopt.h
+--- a/getopt.h  2007-05-25 17:13:24.000000000 -0400
++++ b/getopt.h  2025-06-17 17:18:47.069976899 -0400
+@@ -103,7 +103,7 @@
+    errors, only prototype getopt for the GNU C library.  */
+ extern int getopt (int argc, char *const *argv, const char *shortopts);
+ #else /* not __GNU_LIBRARY__ */
+-extern int getopt ();
++extern int getopt (int, char *const *, const char *);
+ #endif /* __GNU_LIBRARY__ */
+ extern int getopt_long (int argc, char *const *argv, const char *shortopts,
+                        const struct option *longopts, int *longind);
