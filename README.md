@@ -4,7 +4,7 @@ This is my take at building Linux From Scratch under Musl, and other replacement
 
 ## How to read
 
-Follow the guide in 0 - Linux From Scratch, and follow LFS when there's no page.
+Follow the guide in `0 - Linux From Scratch`, and follow LFS Book when there's no page. Patches are found in the `Patches` directory.
 
 ## Packages
 
