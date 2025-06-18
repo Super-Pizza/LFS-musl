@@ -9,6 +9,6 @@
 - Vim -> nextvi
 - Systemd -> InitWare * (Still incomplete, use SysV for now)
 # Added
-musl-fts
-musl-obstack
-argp-parse
+- musl-fts
+- musl-obstack
+- argp-parse
