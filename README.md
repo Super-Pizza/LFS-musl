@@ -14,8 +14,6 @@ Follow the guide in `0 - Linux From Scratch`, and follow LFS Book when there's n
 
 [gettext-tiny](https://github.com/sabotage-linux/gettext-tiny)
 
-[InitWare (git)](https://github.com/InitWare/InitWare)
-
 [Libarchive](https://www.libarchive.org/)
 
 [Libedit](https://www.thrysoee.dk/editline/)
@@ -28,10 +26,8 @@ Follow the guide in `0 - Linux From Scratch`, and follow LFS Book when there's n
 
 [Argp-standalone](https://github.com/ericonr/argp-standalone)
 
+[Musl-utils](https://github.com/yaybondi/musl-utils)
+
 [NetBSD-Curses](https://github.com/sabotage-linux/netbsd-curses)
 
-[Slibtool](https://dev.midipix.org/cross/slibtool)
-
 [Sortix Libz](https://sortix.org/libz/)
-
-[NextVi](https://github.com/kyx0r/nextvi)
