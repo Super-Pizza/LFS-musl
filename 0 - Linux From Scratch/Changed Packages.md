@@ -9,3 +9,4 @@
 - musl-fts
 - musl-obstack
 - argp-parse
+- musl-utils
