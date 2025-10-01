@@ -4,7 +4,7 @@
 - Readline -> libedit
 - Tar -> libarchive
 - Gettext -> Gettext-tiny
-- Zlib -> Sortix libz
+- Zlib -> Zlib-ng
 # Added
 - musl-fts
 - musl-obstack

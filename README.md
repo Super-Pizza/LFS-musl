@@ -30,4 +30,4 @@ Follow the guide in `0 - Linux From Scratch`, and follow LFS Book when there's n
 
 [NetBSD-Curses](https://github.com/sabotage-linux/netbsd-curses)
 
-[Sortix Libz](https://sortix.org/libz/)
+[Zlib-ng](https://github.com/zlib-ng/zlib-ng)
